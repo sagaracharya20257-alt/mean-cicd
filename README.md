@@ -98,6 +98,7 @@ npm run test:watch
 npm run test:ci
 ```
 
+
 ## 🚀 API Endpoints
 
 | Method | Endpoint | Description | Response |
