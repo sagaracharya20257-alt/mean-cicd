@@ -3,7 +3,7 @@
 A comprehensive example of a MERN (MongoDB, Express, React, Node.js) application with complete CI/CD pipeline setup using GitHub Actions, Docker, and automated testing.
 
 ## Docker Hub repository link
-https://hub.docker.com/repository/docker/sagarch123/mern-cicd-example/general
+https://hub.docker.com/r/sagarch123/mern-cicd-example
 
 ## 🚀 Features
 
